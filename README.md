@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,7 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# rails-girls
-my first rails app!
->>>>>>> c72c62b90b90f5f59aa5d1bc917c74b651c50e58
